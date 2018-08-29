@@ -1,20 +1,14 @@
 <resources>
     <string name="app_name">FoodSharing</string>
-    <string name="empleada_tag_string">Te atendió:</string>
-    <string name="comment_box_hint">Escribe un comentario…</string>
-    <string name="submit_btn_text">Aceptar</string>
-    <string name="thank_you_msg">¡Muchas Gracias!</string>
-    <string name="hint_username">Usuario</string>
-    <string name="hint_password">Contraseña</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
     <string name="button_next">Login</string>
-    <string name="button_cancel">Cancelar</string>
-    <string name="invalid_password">Contraseña no válida</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="invalid_password">Invalid Password</string>
     <string name="basket_label">Basket</string>
     <string name="map_label">Map</string>
     <string name="account_label">My Account</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="offline_message">No connection to Internet</string>
     <string name="search_title">Search</string>
     <string name="filter_title">Filter</string>
